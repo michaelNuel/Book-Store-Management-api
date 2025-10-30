@@ -5,7 +5,6 @@ import (
 	"log"
 	"net/http"
 	"github.com/gorilla/mux"
-	"gorm.io/driver/postgres"
 	"github.com/michaelNuel/Book-Store-Management-api/PKG/routes"
 )
 
